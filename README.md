@@ -39,11 +39,6 @@ https://datastudio.google.com/reporting/f50012d1-9186-4381-8dba-c2a5d1f5e388
 - Variables names 
 
 
-
-# Version Updates:
- 
-
-
 # Future Implementations: 
 - Analyze data with Google Data 
 - Add Publisher x Year

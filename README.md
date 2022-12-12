@@ -6,7 +6,7 @@ https://datastudio.google.com/reporting/f50012d1-9186-4381-8dba-c2a5d1f5e388
 
 
 # Description:
-- Understanding video game sales and predicting it
+- Understanding video game sales 
 
 # Model Type 
 ### KNN, XGB, Decision Tree, Random Forest, MLP Regressor, Linear Regression
